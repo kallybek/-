@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+.main{
+background-image:url(https://graphicsfamily.com/wp-content/uploads/edd/2021/11/Logo-Template-for-Gaming-1-1180x663.jpg) ;
+background-size: cover;
+height: 800px;
+}
+
+.logo{
+    margin: 20px 80px;
+}
+nav ul{
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li{
+    color: azure;
+    font-size: 20px;
+    list-style: none; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav ul li:hover{
+    color: brown;
+    cursor: pointer;
+ }
+.text{
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 150px;
+ }
+ 
